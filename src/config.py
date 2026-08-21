@@ -15,7 +15,7 @@ from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
-TEMPLATE_PATH = PROJECT_ROOT / "templates" / "MaxPower_Vendor_Package.pdf"
+TEMPLATE_PATH = PROJECT_ROOT / "templates" / "Tf - MaxPower_Vendor_Package.pdf"
 INPUT_PATH = PROJECT_ROOT / "data" / "invoice.json"
 OUTPUT_DIRECTORY = PROJECT_ROOT / "output"
 
@@ -28,7 +28,7 @@ CONTRACTOR_NAME = "YOUR NAME"
 
 SERVICE_LOCATION = "YOUR SERVICE LOCATION"
 
-HOURLY_RATE = Decimal("00.00")
+HOURLY_RATE = Decimal("18.00")
 
 
 # ---------------------------------------------------------------------------
