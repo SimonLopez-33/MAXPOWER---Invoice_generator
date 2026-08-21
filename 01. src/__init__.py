@@ -1,0 +1,3 @@
+"""
+MaxPower invoice generator package.
+"""

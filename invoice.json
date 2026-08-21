@@ -1,0 +1,19 @@
+{
+    "shifts": [
+        {
+            "date": "2026-08-15",
+            "shift": "Evening",
+            "hours": 5.0
+        },
+        {
+            "date": "2026-08-22",
+            "shift": "Evening",
+            "hours": 6.0
+        },
+        {
+            "date": "2026-08-23",
+            "shift": "Morning",
+            "hours": 5.5
+        }
+    ]
+}
